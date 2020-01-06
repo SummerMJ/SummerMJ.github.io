@@ -98,7 +98,9 @@ theme: pure
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:SummerMJ/SummerMJ.github.io.git
+  branch: master
 # hexo-neat
 neat_enable: true
 neat_html:
