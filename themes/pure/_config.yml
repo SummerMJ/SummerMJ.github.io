@@ -28,9 +28,9 @@ rss: /atom.xml
 site:
   logo:
     enabled: true
-    width: 40
-    height: 40
-    url: ../images/logo.png
+    width: 50
+    height: 50
+    url: /images/avatar.png
   title: Summer # 页面title
   favicon: /images/my.ico
   board: <p>欢迎交流与分享经验!</p> # 站点公告
@@ -184,17 +184,17 @@ fb_app_id:
 # profile
 profile:
   enabled: true # Whether to show profile bar
-  avatar: images/avatar.jpg
-  gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
+  avatar: images/avatar.png
+  gravatar:  # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
+  author: Summer
+  author_title: Web Developer
+  author_description: 喝着枸杞写BUG的攻城狮
+  location: KunMing, China
   follow: https://github.com/cofess
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
+      github: https://github.com/SummerMJ
       weibo: http://weibo.com/cofess
       twitter: https://twitter.com/iwebued
       # facebook: /
@@ -213,7 +213,7 @@ profile:
     平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
+    Github: https://github.com/SummerMJ
     Blog: http://blog.cofess.com
     微博: http://weibo.com/cofess
     花瓣: http://huaban.com/cofess

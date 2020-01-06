@@ -101,38 +101,8 @@ deploy:
   type: git
   repository: git@github.com:SummerMJ/SummerMJ.github.io.git
   branch: master
-# hexo-neat
-neat_enable: true
-neat_html:
-  enable: true
-  exclude:
-neat_css:
-  enable: true
-  exclude:
-    - '*.min.css'
-neat_js:
-  enable: true
-  mangle: true
-  output:
-  compress:
-  exclude:
-    - '*.min.js'
-    -
-translate_title:
-  translate_way: google    #google | baidu | youdao
-  youdao_api_key: XXX
-  youdao_keyfrom: XXX
-  is_need_proxy: false     #true | false
-comment:
-  type: valine # 启用哪种评论系统
-  disqus:  # enter disqus shortname here
-  valine:
-    enable: true
-    app_id:  BRSbVpGtw1RW0uzgajF11Mxa-gzGzoHsz
-    app_key: mGwOv4hO03sU2iBiKIeQbclk
-    notify: false # mail notifier , https://github.com/xCss/Valine/wiki
-    verify: false # Verification code
-    placeholder: ヾﾉ≧∀≦)o来啊，快活啊!
-    guest_info: nick,mail,link
-    pageSize: 10
+admin:
+  username: admin
+  password_hash: $2a$10$tjaWYeBg7jyO8FdSRUgvjuzN6hvLfr6u1aJcIhKrwwBLmudYD00Aq
+  secret: a secret something
 
