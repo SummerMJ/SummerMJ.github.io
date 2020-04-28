@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/2020/01/07/2020_01_07_1/</loc>
-    <lastmod>2020-01-07</lastmod>
+    <loc>http://yoursite.com/2020/03/12/2020-03-1/</loc>
+    <lastmod>2020-04-28</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2020/04/28/2020-04-1/</loc>
+    <lastmod>2020-04-28</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2020/01/07/2020-01-09_1/</loc>
+    <lastmod>2020-04-28</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2020/01/07/first-blog/</loc>
     <lastmod>2020-01-07</lastmod>
